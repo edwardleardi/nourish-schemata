@@ -16,7 +16,8 @@
 #
 
 api_name: com.nourish.v1
-last_updated: 2020-10-08
+name: 'dax'
+last_updated: 2021-03-15
 datasets:
   claim_sentences_search:
     "1.0.2":
