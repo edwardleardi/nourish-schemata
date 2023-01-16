@@ -1,2 +1,2 @@
 flake8 == 3.9.0
-yamllint == 1.26.3
+yamllint == 1.29.0
